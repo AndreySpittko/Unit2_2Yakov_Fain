@@ -25,7 +25,10 @@ public class TestTax {
 		
 //		System.out.println("Your tax is " + t2.adjustForStudents(yourTaxNJ));
 		System.out.println(totalTaxNJ);
-
+		
+		/**
+		 * делаю четвертий комит дл€ GIT
+		 */
 		NJTax t3 = new NJTax();	//создал инстанс (екземпл€р) етого класса
 		t3.grossIncome = 85000;
 		t3.state = "NJ";
